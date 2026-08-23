@@ -1,2 +1,25 @@
 # Clinton Duct Cleaning
-HVAC services in Ontario.
+
+> Clinton Duct Cleaning is a local HVAC company serving Clinton, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 482-0143  |  Email: contact@clintonductcleaning.ca  |  Website: https://clintonductcleaning.ca
+
+## Key pages
+
+- [Home](https://clintonductcleaning.ca/): Clinton Duct Cleaning homepage with service overview and FAQ
+- [About](https://clintonductcleaning.ca/about/): About the company and service area
+- [Contact](https://clintonductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://clintonductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Clinton, Ontario
+- [Dryer Vent Cleaning](https://clintonductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Clinton, Ontario
+- [Furnace & AC Cleaning](https://clintonductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Clinton, Ontario
+- [HRV & Ventilation Cleaning](https://clintonductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Clinton, Ontario
+- [Duct Sanitizing & Deodorizing](https://clintonductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Clinton, Ontario
+- [Duct Sealing & Repair](https://clintonductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Clinton, Ontario
+- [Commercial Duct Cleaning](https://clintonductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Clinton, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Clinton are answered on the homepage.
